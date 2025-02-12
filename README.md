@@ -5,7 +5,7 @@ Q. When to use it?
 A. When we need to create sub-categories.
 
 Q. Why to use it?
-A. To reduce LOC
+A. To reduce LOC.
 
 The very important keyword in inheritance is extends.
 The child class always extends parent class.
